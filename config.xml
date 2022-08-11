@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>mobytic_add_rgpd</name>
+	<displayName><![CDATA[Mobytic - Add - RGPD]]></displayName>
+	<version><![CDATA[1.0.0]]></version>
+	<description><![CDATA[Ajouter un POPUP RGPD]]></description>
+	<author><![CDATA[Mobytic]]></author>
+	<tab><![CDATA[administration]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+</module>
