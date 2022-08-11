@@ -29,7 +29,7 @@ class AdminMobytic_add_rgpdController extends ModuleAdminController
     public function __construct()
     {
         // parent::initcontent();
-        $module = "Mobytic_add_rgpd";
+        $module = "mobytic_add_rgpd";
         Tools::redirectAdmin('index.php?controller=AdminModules&configure='.$module.
             '&token='.Tools::getAdminTokenLite('AdminModules'));
     }
