@@ -86,8 +86,11 @@
 #mobytic-rgpd-wrapper #mobytic-rgpd .mobytic-rgpd-body-header .title h1#mobytic-rgpd-title {
   margin: 0;
   font-family: 'Source Serif 4', serif !important;
-  font-size: 24px;
   text-align: left !important;
+}
+
+#mobytic-rgpd-wrapper #mobytic-rgpd .mobytic-rgpd-body-header .title h1#mobytic-rgpd-title small {
+  font-size: 20px;
 }
 
 #mobytic-rgpd-wrapper #mobytic-rgpd .mobytic-rgpd-body-header .title h1#mobytic-rgpd-title span {
