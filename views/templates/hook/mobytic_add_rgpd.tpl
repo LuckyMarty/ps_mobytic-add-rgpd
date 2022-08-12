@@ -15,7 +15,7 @@
                         <span>{l s='Les Cookies !' d='Modules.Mobytic.RGPD'}</span>
                     </h1>
                 </div>
-                <div class="img" style="background-image: url('{$mobytic_rgpd_img}');"></div>
+                <div class="mobytic-cookies-img" style="background-image: url('{$mobytic_rgpd_img}');"></div>
             </div>
             <p id="mobytic_rgpd_p">
                 {l s='Nous nous soucions de vos données, et nous aimerions utiliser des cookies pour améliorer votre expérience.' d='Modules.Mobytic.RGPD'}
